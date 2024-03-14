@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muyazkhan.muyazkhan" />
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmuyazkhan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuyazkhan&labelColor=%232ccce4&countColor=%2337d67a" /></a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muyaz+Khan!;" />
