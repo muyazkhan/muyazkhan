@@ -9,8 +9,10 @@
 <br/>
 
 <div align="center">
- 
+ 👑 Hello, I'm a Web Developer diving into backend development! 
  🌱 I’m currently learning **Python, Django, AWS**
+</br>
+🖊️ I have a passion for writing clean and efficient code. 
 
 
  </div>
