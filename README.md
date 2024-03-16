@@ -14,8 +14,8 @@
  🌱 I’m currently learning **Python, Django, AWS**
 </br>
 🖊️ I have a passion for writing clean and efficient code. 
-
-
+</br>
+</br>
  </div>
  
 <div align="center"> 
