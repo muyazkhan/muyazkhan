@@ -1,7 +1,7 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmuyazkhan"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuyazkhan&labelColor=%232ccce4&countColor=%2337d67a" /></a>
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Preahvihear&weight=500&size=35&pause=1000&color=703CF0&center=true&vCenter=true&multiline=true&random=false&width=454&lines=+Welcome+to+Muyaz+Khan's+GitHub!++%F0%9F%91%8B;Explore%2C+collaborate%2C+and+innovate+together!+%F0%9F%9A%80+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Preahvihear&weight=500&size=35&pause=1000&color=703CF0&center=true&vCenter=true&random=false&width=920&height=100&lines=+Welcome+to+Muyaz+Khan's+GitHub!++%F0%9F%91%8B;Explore%2C+collaborate%2C+and+innovate+together!+%F0%9F%9A%80+" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Web developer from Bangladesh !</h3>
